@@ -1,0 +1,56 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+.header{
+    margin-top: 50px;
+    padding: 50px 50px;
+    background-color: darkslategrey;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+.origin-text{
+    margin-top: 20px;
+    
+    padding: 20px 20px;
+    background-color: dimgray;
+    color: white;
+    border-radius: 10px;
+    
+}
+.timer-wrapper{
+    background-color: orange;
+    padding: 5px;
+    letter-spacing: 2px;
+    align-content: center;
+    border-radius: 10px;
+    
+  
+}
+.timer{
+    font-weight: bold;
+    font-size: 3em;
+    color: white;
+    margin-left: 6px;
+    text-align: center;
+}
+.text-wrapper{
+    margin: 20px 20px;
+    
+    border: 10px solid green;
+    border-radius: 10px;
+}
+#exampleFormControlTextarea6{
+    width: 100%;
+}
+.btn-primary{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 3em;
+    font-weight: bold;
+
+}
+
+
+    
